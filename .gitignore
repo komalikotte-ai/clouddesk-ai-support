@@ -1,6 +1,25 @@
+# Secrets -- never commit this
+.env
+
+# Virtual environment
 .venv/
+venv/
+env/
+
+# Python
 __pycache__/
 *.pyc
-.env
+*.pyo
+.pytest_cache/
+
+# Generated vector database (rebuild via scripts/ingest.py, don't ship it)
 chroma_db/
+
+# Streamlit
 .streamlit/secrets.toml
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
