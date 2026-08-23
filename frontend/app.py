@@ -19,7 +19,7 @@ st.set_page_config(
 # CONFIGURATION
 # ============================================================
 
-API_URL = "http://127.0.0.1:8000/chat"
+API_URL = "https://your-app-name.onrender.com/chat"
 
 CONFIDENCE_THRESHOLD = 0.70
 
