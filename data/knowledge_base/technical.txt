@@ -1,0 +1,16 @@
+CLOUDDESK TECHNICAL FAQ
+
+Q: Which browsers are supported?
+A: CloudDesk supports the latest two versions of Google Chrome, Microsoft Edge, Mozilla Firefox and Safari.
+
+Q: Why is the dashboard loading slowly?
+A: Slow dashboard loading may be caused by browser cache, network connectivity or a temporary CloudDesk service issue. Customers should first refresh the page, clear browser cache and verify their network connection.
+
+Q: How can I export my data?
+A: Go to Settings > Data Management > Export Data. Select the required data and click Start Export. A download link will appear when the export is ready.
+
+Q: What should I do if CloudDesk is unavailable?
+A: Check the CloudDesk service status page. If the service is operational, refresh the browser and verify network connectivity. If the problem continues, contact Technical Support.
+
+Q: Does CloudDesk support mobile devices?
+A: CloudDesk can be accessed using modern mobile browsers. Some advanced administrative functions are optimized for desktop browsers.

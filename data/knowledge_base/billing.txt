@@ -1,0 +1,16 @@
+CLOUDDESK BILLING FAQ
+
+Q: How can I upgrade my subscription?
+A: Customers can upgrade their CloudDesk subscription from Settings > Billing > Change Plan. The new plan becomes active immediately. The customer is charged the prorated difference for the remaining billing period.
+
+Q: Why was I charged twice?
+A: Duplicate charges may occur when two payment attempts are processed for the same billing period. Customers should first check their billing history. If two completed charges exist for the same invoice period, the customer should contact CloudDesk Billing Support for investigation and refund processing.
+
+Q: How can I download my invoice?
+A: Open Settings > Billing > Invoices. Select the required invoice and click Download Invoice.
+
+Q: What payment methods are supported?
+A: CloudDesk supports Visa, Mastercard, American Express and major debit cards.
+
+Q: Can I cancel my subscription?
+A: Customers can cancel from Settings > Billing > Manage Subscription. Cancellation stops renewal at the end of the current billing period.

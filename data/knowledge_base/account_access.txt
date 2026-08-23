@@ -1,0 +1,16 @@
+CLOUDDESK ACCOUNT ACCESS FAQ
+
+Q: How do I reset my password?
+A: On the CloudDesk login page, click Forgot Password. Enter your registered email address and follow the password reset link sent to your email.
+
+Q: My account is locked. What should I do?
+A: Accounts may be temporarily locked after multiple unsuccessful login attempts. Wait 15 minutes and try again. If the account remains locked, contact Account Support.
+
+Q: How do I change my email address?
+A: Open Settings > Profile and select Change Email. Enter the new email address and complete the verification process.
+
+Q: How do I enable two-factor authentication?
+A: Open Settings > Security > Two-Factor Authentication and follow the setup instructions.
+
+Q: I did not receive my password reset email.
+A: Check your spam or junk folder and confirm that you entered the registered email address. If the email still does not arrive, contact Account Support.
