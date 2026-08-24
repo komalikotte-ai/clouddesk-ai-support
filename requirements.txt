@@ -1,8 +1,10 @@
-streamlit
 fastapi
-uvicorn[standard]
+uvicorn
+streamlit
 chromadb
 sentence-transformers
 google-genai
 python-dotenv
-requests
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.13.0+cpu
